@@ -1,0 +1,25 @@
+#AdGuardHome-Rulus for HK
+#TVB^
+||bigbigchannel.com.hk^
+||bigbigshop.com^
+||encoretvb.com^
+||tvb.com^
+||tvbanywhere.com^
+||tvbeventpower.com.hk^
+||tvbusa.com^
+||tvbweekly.com^
+||windows.net^
+||omtrdc.net^
+||mytvsuper.com^
+#viuTV^
+||cognito-identity.us-east-1.amazonaws.com^
+||firebaseio.com^
+||jwpcdn.com^
+||jwplayer.com^
+||mobileanalytics.us-east-1.amazonaws.com^
+||viu.com^
+||viu.tv^
+||viu.now.com^
+#NowE^
+||nowe.com^
+||nowestatic.com^

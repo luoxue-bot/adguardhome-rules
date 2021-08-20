@@ -1,0 +1,17 @@
+#AdGuardHome-Rulus for TW
+#Bahamut^
+||bahamut.com.tw^
+||gamer.com.tw^
+||hinet.net^
+#LineTV^
+||d3c7rimkq79yfu.cloudfront.net^
+||linetv.tw^
+||profile.line-scdn.net^
+#KKTV^
+||kktv.me^
+||kktv.com.tw^
+#TaiwanGood^
+||skyking.com.tw^
+||hamifans.emome.net^
+#4GTV
+||4gtv.tv^
