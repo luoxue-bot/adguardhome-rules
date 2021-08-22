@@ -9,6 +9,7 @@
 #abematv^
 ||abema.tv^
 ||abema.io^
+||abema.jp^
 ||abematv.bucketeer.jp^
 #fujitv^
 ||stream.ne.jp^
