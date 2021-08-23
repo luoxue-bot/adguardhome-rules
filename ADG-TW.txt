@@ -13,5 +13,7 @@
 #TaiwanGood^
 ||skyking.com.tw^
 ||hamifans.emome.net^
-#4GTV
+#4GTV^
 ||4gtv.tv^
+#LiTV
+||litv.tv^
