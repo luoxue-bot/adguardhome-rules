@@ -19,3 +19,7 @@
 ||litv.tv^
 #CatchPlay+^
 ||catchplay.com^
+#Eleven Sports TW^
+||dv8n4jja5ycl3.cloudfront.net^
+||tw-elevensports.com^
+||elevensports.tw^
